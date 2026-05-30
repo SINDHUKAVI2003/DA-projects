@@ -16,8 +16,6 @@ Analyzed Google Play Store app data to identify trends in ratings, installs, rev
 
 - Productivity apps combined high install volume (14+ billion installs) with strong user ratings (4.2+), indicating sustained customer value and engagement.
 
-- The app rating prediction dataset exhibited a strong class imbalance (89% vs 11%), highlighting the need for robust evaluation metrics beyond accuracy to ensure reliable prediction of less frequent rating categories.
-
 ## Files
 - notebook.ipynb
 - dataset.csv
