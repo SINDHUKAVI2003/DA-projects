@@ -10,10 +10,13 @@ Analyzed Google Play Store app data to identify trends in ratings, installs, rev
 - Matplotlib
 
 ## Key Insights
-📌 Gaming apps generated the highest user adoption with more than 35 billion installs, making Gaming the largest category on the Google Play Store.
-📌 Free apps overwhelmingly dominated the market with over 167 billion installs, highlighting the effectiveness of freemium monetization strategies.
-📌 Productivity apps combined high install volume (14+ billion installs) with strong user ratings (4.2+), indicating sustained customer value and engagement.
-📌 The app rating prediction dataset exhibited a strong class imbalance (89% vs 11%), highlighting the need for robust evaluation metrics beyond accuracy to ensure reliable prediction of less frequent rating categories.
+- Gaming apps generated the highest user adoption with more than 35 billion installs, making Gaming the largest category on the Google Play Store.
+
+- Free apps overwhelmingly dominated the market with over 167 billion installs, highlighting the effectiveness of freemium monetization strategies.
+
+- Productivity apps combined high install volume (14+ billion installs) with strong user ratings (4.2+), indicating sustained customer value and engagement.
+
+- The app rating prediction dataset exhibited a strong class imbalance (89% vs 11%), highlighting the need for robust evaluation metrics beyond accuracy to ensure reliable prediction of less frequent rating categories.
 
 ## Files
 - notebook.ipynb
